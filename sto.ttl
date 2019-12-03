@@ -7786,6 +7786,262 @@ sto:IEC_TS_62832 rdf:type owl:NamedIndividual ,
                  sto:hasOfficialResource <https://webstore.iec.ch/publication/33023> .
 
 
+###  https://w3id.org/i40/sto#IEC_60738-1-1-2008
+sto:IEC_60738-1-1-2008 a owl:NamedIndividual, sto:Standard;
+  dcterms:creator sto:crawler;
+  dcterms:modified "2019-11-27T09:04:41Z";
+  dcterms:title "Thermistances - Coefficient de température positif de fonction échelon à chauffage direct - Partie 1-1: Spécification particulière cadre - Application de la limitation de courant - Niveau d'assurance EZ",
+    "Thermistors - Directly heated positive step-function temperature coefficient - Part 1-1: Blank detail specification - Current limiting application - Assessment leve EZ";
+  rdfs:comment """
+    text/html
+    IEC 60738-1-1:2008 is a supplementary document to the generic specification and contains requirements for style and layout and minimum content of detail specifications. Detail specifications not complying with these requirements shall not be considered as being in accordance with IEC specifications nor shall they so be described. This edition contains changes with respect to the referenced subclauses of the revised generic specification IEC 60738-1.<br />
+<br />
+This publication is to be read in conjunction with IEC 60738-1:2009.
+  """,
+    """
+    text/html
+    La CEI 60738-1-1:2008 est un document annexe à la spécification générique qui contient des exigences pour le modèle, la disposition et le contenu minimal des spécifications particulières. Les spécifications particulières ne répondant pas à ces règles ne doivent pas être considérées conformes aux spécifications de la CEI et ne doivent pas être déclarées comme telles. Cette édition contient des modifications des paragraphes référencés de la spécification générique révisée CEI 60738-1.<br />
+<br />
+Cette publication doit être lue conjointement avec la CEI 60738-1:2009.
+  """;
+  rdfs:label "IEC 60738-1-1:2008";
+  sto:hasAvailableLanguage lang:en, lang:es, lang:fr;
+  sto:hasEdition "3";
+  sto:hasOfficialResource <https://webstore.iec.ch/publication/3159>;
+  sto:hasPages "14", "28";
+  sto:hasPublicationDate "2008-02-13";
+  sto:hasPublisher sto:IEC;
+  sto:hasStabilityDate "2024-12-31";
+  sto:hasStatus "PUBLISHED";
+  sto:hasTechnicalCommittee "TC 40";
+  sto:hasVersion "1" .
+
+
+###  https://w3id.org/i40/sto#IEC_60738-1-2-2008
+sto:IEC_60738-1-2-2008 a owl:NamedIndividual, sto:Standard;
+  dcterms:creator sto:crawler;
+  dcterms:modified "2019-11-27T09:05:38Z";
+  dcterms:title "Thermistances - Coefficient de température positif de fonction échelon à chauffage direct - Partie 1-2: Spécification particulière cadre - Application de l'élément chauffant - Niveau d'assurance de la qualité EZ",
+    "Thermistors - Directly heated positive step-function temperature coefficient - Part 1-2: Blank detail specification - Heating element application - Assessment level EZ";
+  rdfs:comment """
+    text/html
+    IEC 60738-1-2:2008 is a supplementary document to the generic specification and contains requirements for style and layout and minimum content of detail specifications. Detail specifications not complying with these requirements shall not be considered as being in accordance with IEC specifications nor shall they so be described. In the preparation of detail specifications the content of IEC 60738-1:2006,1.4 shall be taken into account. This edition contains changes with respect to the referenced subclauses of the revised Generic Specification IEC 60738-1.<br />
+<br />
+This publication is to be read in conjunction with IEC 60738-1:2009.
+  """,
+    """
+    text/html
+    L'IEC 60738-1-2:2008 est un document annexe à la spécification générique qui contient des exigences pour le modèle, la disposition et le contenu minimal des spécifications particulières. Les spécifications particulières ne répondant pas à ces règles ne doivent pas être considérées conformes aux spécifications de l'IEC et ne doivent pas être déclarées comme telles. Dans la préparation de la spécification particulière, le contenu de 1.4 de l'IEC 60738-1:2006, doit être pris en compte. Cette édition contient des modifications des paragraphes référencés de la spécification générique révisée IEC 60738-1.<br />
+<br />
+Cette publication doit être lue conjointement avec la CEI 60738-1:2009.
+  """;
+  rdfs:label "IEC 60738-1-2:2008";
+  sto:hasAvailableLanguage lang:en, lang:es, lang:fr;
+  sto:hasEdition "2";
+  sto:hasOfficialResource <https://webstore.iec.ch/publication/3160>;
+  sto:hasPages "13", "25";
+  sto:hasPublicationDate "2008-02-13";
+  sto:hasPublisher sto:IEC;
+  sto:hasStabilityDate "2024-12-31";
+  sto:hasStatus "PUBLISHED";
+  sto:hasTechnicalCommittee "TC 40";
+  sto:hasVersion "1" .
+
+
+###  https://w3id.org/i40/sto#IEC_60738-1-2006-AMD1-2009
+sto:IEC_60738-1-2006-AMD1-2009 a owl:NamedIndividual, sto:Standard;
+  dcterms:creator sto:crawler;
+  dcterms:modified "2019-11-27T09:03:16Z";
+  dcterms:title "Amendement 1 - Thermistances - Coefficient de température positif à chauffage direct - Partie 1: Spécification générique",
+    "Amendment 1 - Thermistors - Directly heated positive temperature coefficient - Part 1: Generic specification";
+  rdfs:label "IEC 60738-1:2006/AMD1:2009";
+  sto:hasAvailableLanguage lang:en, lang:es, lang:fr;
+  sto:hasEdition "3";
+  sto:hasOfficialResource <https://webstore.iec.ch/publication/3163>;
+  sto:hasPages "3", "5";
+  sto:hasPublicationDate "2009-05-26";
+  sto:hasPublisher sto:IEC;
+  sto:hasStabilityDate "2023-12-31";
+  sto:hasStatus "PUBLISHED";
+  sto:hasTechnicalCommittee "TC 40";
+  sto:hasVersion "1" .
+
+
+###  https://w3id.org/i40/sto#IEC_60738-1-3-2008
+sto:IEC_60738-1-3-2008 a owl:NamedIndividual, sto:Standard;
+  dcterms:creator sto:crawler;
+  dcterms:modified "2019-11-27T09:06:15Z";
+  dcterms:title "Thermistances - Coefficient de température positif de fonction échelon à chauffage direct - Partie 1-3: Spécification particulière cadre - Application du courant d'appel - Niveau d'assurance de la qualité EZ",
+    "Thermistors - Directly heated positive step-function temperature coefficient - Part 1-3: Blank detail specification - Inrush current application - Assessment level EZ";
+  rdfs:comment """
+    text/html
+    IEC 60738-1-3:2008 is a supplementary document to the generic specification and contains requirements for style and layout and minimum content of detail specifications. Detail specifications not complying with these requirements shall not be considered as being in accordance with IEC specifications nor shall they so be described. In the preparation of detail specifications the content of IEC 60738-1:2006,1.4 shall be taken into account. This edition contains changes with respect to the referenced subclauses of the revised Generic Specification IEC 60738-1.<br />
+<br />
+This publication is to be read in conjunction with IEC 60738-1:2009.
+  """,
+    """
+    text/html
+    L'IEC 60738-1-3:2008 est un document annexe à la spécification générique qui contient des exigences pour le modèle, la disposition et le contenu minimal des spécifications particulières. Les spécifications particulières ne répondant pas à ces règles ne doivent pas être considérées conformes aux spécifications de l'IEC et ne doivent pas être déclarées comme telles. Dans la préparation de la spécification particulière, le contenu de 1.4 de l'IEC 60738-1:2006, doit être pris en compte. Cette édition contient des modifications des paragraphes référencés de la spécification générique révisée IEC 60738-1.<br />
+<br />
+Cette publication doit être lue conjointement avec la CEI 60738-1:2009.
+  """;
+  rdfs:label "IEC 60738-1-3:2008";
+  sto:hasAvailableLanguage lang:en, lang:es, lang:fr;
+  sto:hasEdition "2";
+  sto:hasOfficialResource <https://webstore.iec.ch/publication/3161>;
+  sto:hasPages "13", "25";
+  sto:hasPublicationDate "2008-02-13";
+  sto:hasPublisher sto:IEC;
+  sto:hasStabilityDate "2024-12-31";
+  sto:hasStatus "PUBLISHED";
+  sto:hasTechnicalCommittee "TC 40";
+  sto:hasVersion "1" .
+
+
+###  https://w3id.org/i40/sto#IEC_60738-1-4-2008
+sto:IEC_60738-1-4-2008 a owl:NamedIndividual, sto:Standard;
+  dcterms:creator sto:crawler;
+  dcterms:modified "2019-11-27T09:07:04Z";
+  dcterms:title "Thermistances - Coefficient de température positif de fonction échelon à chauffage direct - Partie 1-4: Spécification particulière cadre - Application de la détection - Niveau d'assurance de la qualité EZ",
+    "Thermistors - Directly heated positive step-function temperature coefficient - Part 1-4: Blank detail specification - Sensing application - Assessment level EZ";
+  rdfs:comment """
+    text/html
+    IEC 60738-1-4:2008 is a supplementary document to the generic specification and contains requirements for style and layout and minimum content of detail specifications. Detail specifications not complying with these requirements shall not be considered as being in accordance with IEC specifications nor shall they so be described. In the preparation of detail specifications the content of IEC 60738-1:2006,1.4 shall be taken into account. This edition contains changes with respect to the referenced subclauses of the revised Generic Specification IEC 60738-1.<br />
+<br />
+This publication is to be read in conjunction with IEC 60738-1:2009.
+  """,
+    """
+    text/html
+    L'IEC 60738-1-4:2008 est un document annexe à la spécification générique qui contient des exigences pour le modèle, la disposition et le contenu minimal des spécifications particulières. Les spécifications particulières ne répondant pas à ces règles ne doivent pas être considérées conformes aux spécifications de l'IEC et ne doivent pas être déclarées comme telles. Dans la préparation de la spécification particulière, le contenu de 1.4 de l'IEC 60738-1:2006, doit être pris en compte. Cette édition contient des modifications des paragraphes référencés de la spécification générique révisée IEC 60738-1.<br />
+<br />
+Cette publication doit être lue conjointement avec la CEI 60738-1:2009.
+  """;
+  rdfs:label "IEC 60738-1-4:2008";
+  sto:hasAvailableLanguage lang:en, lang:es, lang:fr;
+  sto:hasEdition "2";
+  sto:hasOfficialResource <https://webstore.iec.ch/publication/3162>;
+  sto:hasPages "13", "25";
+  sto:hasPublicationDate "2008-02-13";
+  sto:hasPublisher sto:IEC;
+  sto:hasStabilityDate "2024-12-31";
+  sto:hasStatus "PUBLISHED";
+  sto:hasTechnicalCommittee "TC 40";
+  sto:hasVersion "1" .
+
+
+###  https://w3id.org/i40/sto#IEC_61051-2-1991
+sto:IEC_61051-2-1991 a owl:NamedIndividual, sto:Standard;
+  dcterms:creator sto:crawler;
+  dcterms:modified "2019-11-27T09:09:57Z";
+  dcterms:title "Varistances utilisées dans les équipements électroniques - Deuxième partie: Spécification intermédiaire pour varistances pour limitations de surtensions transitoires",
+    "Varistors for use in electronic equipment - Part 2: Sectional specification for surge suppression varistors";
+  rdfs:label "IEC 61051-2:1991";
+  sto:hasAvailableLanguage lang:en, lang:fr;
+  sto:hasEdition "1";
+  sto:hasOfficialResource <https://webstore.iec.ch/publication/4365>;
+  sto:hasPages "31";
+  sto:hasPublicationDate "1991-02-11";
+  sto:hasPublisher sto:IEC;
+  sto:hasStabilityDate "2021-12-31";
+  sto:hasStatus "PUBLISHED";
+  sto:hasTechnicalCommittee "TC 40";
+  sto:hasVersion "1" .
+
+
+###  https://w3id.org/i40/sto#ISO-IEC_24091-2019
+sto:ISO-IEC_24091-2019 a owl:NamedIndividual, sto:Standard;
+  dcterms:creator sto:crawler;
+  dcterms:modified "2019-11-26T13:52:24Z";
+  dcterms:title "Information technology - Power efficiency measurement specification for data center storage";
+  rdfs:comment """
+    text/html
+    This document describes a standardized method to assess the energy efficiency of commercial storage products in both active and idle states of operation. A taxonomy is defined that classifies storage products in terms of operational profiles and supported features. Test definition and execution rules for measuring the power efficiency of each taxonomy category are described; these include test sequence, test configuration, instrumentation, benchmark driver, IO profiles, measurement interval, and metric stability assessment. Qualitative heuristic tests are defined to verify the existence of several capacity optimization methods. Resulting power efficiency metrics are defined as ratios of idle capacity or active operations during a selected stable measurement interval to the average measured power.
+  """;
+  rdfs:label "ISO/IEC 24091:2019";
+  sto:hasAvailableLanguage lang:en;
+  sto:hasEdition "1";
+  sto:hasOfficialResource <https://webstore.iec.ch/publication/66162>;
+  sto:hasPages "71";
+  sto:hasPublicationDate "2019-11-22";
+  sto:hasPublisher sto:ISO;
+  sto:hasStatus "PUBLISHED";
+  sto:hasTechnicalCommittee "ISO/IEC JTC 1";
+  sto:hasVersion "1" .
+
+
+###  https://w3id.org/i40/sto#ISO-IEC_30113-12-2019
+sto:ISO-IEC_30113-12-2019 a owl:NamedIndividual, sto:Standard;
+  dcterms:creator sto:crawler;
+  dcterms:modified "2019-11-26T14:00:30Z";
+  dcterms:title "Information technology - User interfaces - Gesture-based interfaces across devices and methods - Part 12: Multi-point gestures for common system actions";
+  rdfs:comment """
+    text/html
+    This document defines multi-point gestures for common system actions used in information and communication technology (ICT) systems.<br />
+It specifies movements and conditions for describing multi-point gestures recognized by the systems and applications. The multi-point gestures are performed using an input device (multi-touchpad, multi-touchscreen, etc.) or body parts (fingertips, hands, etc.). These multi-point gestures are intended to operate in a consistent manner regardless of systems, platforms or applications.<br />
+The gestures for common system actions denote system-level functions and common functions across applications of ICT systems. The system-level functions are executed at a system or a platform level. They include initiation, resume, restart and termination, etc. The common functions across applications are commonly executed among applications of a system or a platform. The functions include navigation of menus, opening an object, closing an object, etc.<br />
+NOTE ICT systems include, but are not limited to, digital televisions, set-top boxes, video game consoles, communication devices, internet devices, entertainment devices, and personal computers (PCs).
+  """;
+  rdfs:label "ISO/IEC 30113-12:2019";
+  sto:hasAvailableLanguage lang:en;
+  sto:hasEdition "1";
+  sto:hasOfficialResource <https://webstore.iec.ch/publication/66164>;
+  sto:hasPages "55";
+  sto:hasPublicationDate "2019-11-20";
+  sto:hasPublisher sto:ISO;
+  sto:hasStatus "PUBLISHED";
+  sto:hasTechnicalCommittee "ISO/IEC JTC 1/SC 35";
+  sto:hasVersion "1" .
+
+
+###  https://w3id.org/i40/sto#ISO-IEC_33020-2015
+sto:ISO-IEC_33020-2015 a owl:NamedIndividual, sto:Standard;
+  dcterms:creator sto:crawler;
+  dcterms:modified "2019-11-26T14:19:08Z";
+  dcterms:title "Information technology -- Process assessment -- Process measurement framework for assessment of process capability";
+  rdfs:comment """
+    text/html
+    ISO/IEC 33020:2015 defines a process measurement framework that supports the assessment of process capability, in accordance with the requirements of ISO/IEC 33003. The process measurement framework provides a schema that can be used to construct a process assessment model conformant with ISO/IEC 33004 which can be used in the performance of assessment of process capability according to the requirements of ISO/IEC 33002. In the context of this and related standards, process capability is a process quality characteristic related to the ability of a process to consistently meet current or projected business goals. The process measurement frameworks defined in ISO/IEC 33020:2015 form a structure which a) facilitates self-assessment, b) provides a basis for use in process improvement and process quality determination, c) is applicable across all application domains and sizes of organization, d) produces a set of process (capability) attribute ratings (process profile), and e) derives a process capability level.
+  """;
+  rdfs:label "ISO/IEC 33020:2015";
+  sto:hasAvailableLanguage lang:en;
+  sto:hasEdition "1";
+  sto:hasOfficialResource <https://webstore.iec.ch/publication/21906>;
+  sto:hasPages "18";
+  sto:hasPublicationDate "2015-02-27";
+  sto:hasPublisher sto:ISO;
+  sto:hasStatus "REVISED";
+  sto:hasTechnicalCommittee "ISO/IEC JTC 1/SC 7";
+  sto:hasVersion "1" .
+
+
+###  https://w3id.org/i40/sto#ISO-IEC_33020-2019
+sto:ISO-IEC_33020-2019 a owl:NamedIndividual, sto:Standard;
+  dcterms:creator sto:crawler;
+  dcterms:modified "2019-11-26T14:19:08Z";
+  dcterms:title "Information technology - Process assessment - Process measurement framework for assessment of process capability";
+  rdfs:comment """
+    text/html
+    This document defines a process measurement framework that supports the assessment of process capability, in accordance with the requirements of ISO/IEC 33003. The process measurement framework provides a schema that can be used to construct a process assessment model conformant with ISO/IEC 33004 which can be used in the performance of assessment of process capability according to the requirements of ISO/IEC 33002. In the context of this document and related standards, process capability is a process quality characteristic related to the ability of a process to consistently meet current or projected business goals.<br />
+The process measurement framework defined in this document forms a structure which<br />
+a) facilitates self-assessment,<br />
+b) provides a basis for use in process improvement and process quality determination,<br />
+c) is applicable across all application domains and sizes of organization,<br />
+d) produces a set of process (capability) attribute ratings (process profile), and<br />
+e) derives a process capability level.<br />
+This document also includes as informative annexes a set of assessment indicators of process capability that can be used in the construction of a process assessment model using this process measurement framework, and guidance on the meaning of the process capability levels and the achievement of the process attributes.
+  """;
+  rdfs:label "ISO/IEC 33020:2019";
+  sto:hasAvailableLanguage lang:en;
+  sto:hasEdition "2";
+  sto:hasOfficialResource <https://webstore.iec.ch/publication/66165>;
+  sto:hasPages "42";
+  sto:hasPublicationDate "2019-11-26";
+  sto:hasPublisher sto:ISO;
+  sto:hasStatus "PUBLISHED";
+  sto:hasTechnicalCommittee "ISO/IEC JTC 1/SC 7";
+  sto:hasVersion "1" .
+
+
 ###  https://w3id.org/i40/sto#IEEE
 sto:IEEE rdf:type owl:NamedIndividual ,
                   foaf:Organization ,
