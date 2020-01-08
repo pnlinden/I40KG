@@ -8635,6 +8635,240 @@ sto:IEC_TS_62832 rdf:type owl:NamedIndividual ,
                  sto:hasOfficialResource <https://webstore.iec.ch/publication/33023> .
 
 
+###  https://w3id.org/i40/sto#IEC_60034-29-2008
+sto:IEC_60034-29-2008 a owl:NamedIndividual, sto:Standard;
+  dcterms:creator sto:crawler;
+  dcterms:modified "2020-01-02"^^xsd:date;
+    "Rotating electrical machines - Part 29: Equivalent loading and  superposition techniques - Indirect testing to determine temperature rise";
+  rdfs:comment """
+    text/html
+    IEC 60034-29 provides various indirect load tests, the purpose of which is to determine the temperature rise of rotating electrical machines, including a.c. induction machines, a.c. synchronous machines and d.c. machines. The test methods in some cases provide, in addition, means of measuring or estimating other parameters such as losses and vibration. Applies to machines covered by IEC 60034-1 when they cannot be loaded to a specific condition. Is applicable to both motors and generators.
+  """,
+    """
+    text/html
+  """;
+  rdfs:label "IEC 60034-29:2008";
+  sto:hasAvailableLanguage lang:en, lang:es, lang:fr;
+  sto:hasEdition "1"^^xsd:float;
+  sto:hasOfficialResource <https://webstore.iec.ch/publication/134>;
+  sto:hasPages "29"^^xsd:int, "58"^^xsd:int;
+  sto:hasPublicationDate "2008-03-11"^^xsd:date;
+  sto:hasPublisher sto:IEC;
+  sto:hasStabilityDate "2020-12-31"^^xsd:date;
+  sto:hasStatus "PUBLISHED";
+  sto:hasTechnicalCommittee "TC 2";
+  sto:hasVersion "1"^^xsd:float .
+
+
+###  https://w3id.org/i40/sto#IEC_60034-3-2007
+sto:IEC_60034-3-2007 a owl:NamedIndividual, sto:Standard;
+  dcterms:creator sto:crawler;
+  dcterms:modified "2020-01-02"^^xsd:date;
+    "Rotating electrical machines - Part 3: Specific requirements for synchronous generators driven by steam turbines or combustion gas turbines";
+  rdfs:comment """
+    text/html
+    Applies to three-phase synchronous generators, having rated outputs of 10 MVA and above driven by steam turbines or combustion gas turbines. Provides common requirements as well as specific requirements for air, hydrogen or liquid cooled synchronous generators and supplements the basic requirements given in IEC 60034-1. Gives also the precautions to be taken when using hydrogen cooled generators. The scope of this new edition has been limited with respect to the previous edition.
+  """,
+    """
+    text/html
+  """;
+  rdfs:label "IEC 60034-3:2007";
+  sto:hasAvailableLanguage lang:en, lang:es, lang:fr;
+  sto:hasEdition "6"^^xsd:float;
+  sto:hasOfficialResource <https://webstore.iec.ch/publication/135>;
+  sto:hasPages "27"^^xsd:int, "54"^^xsd:int;
+  sto:hasPublicationDate "2007-11-27"^^xsd:date;
+  sto:hasPublisher sto:IEC;
+  sto:hasStabilityDate "2020-12-31"^^xsd:date;
+  sto:hasStatus "PUBLISHED";
+  sto:hasTechnicalCommittee "TC 2";
+  sto:hasVersion "1"^^xsd:float .
+
+
+###  https://w3id.org/i40/sto#IEC_60034-30-1-2014
+sto:IEC_60034-30-1-2014 a owl:NamedIndividual, sto:Standard;
+  dcterms:creator sto:crawler;
+  dcterms:modified "2020-01-02"^^xsd:date;
+    "Rotating electrical machines - Part 30-1: Efficiency classes of line operated AC motors (IE code)";
+  rdfs:comment """
+    text/html
+    IEC 60034-30-1:2014 specifies efficiency classes for single-speed electric motors that are rated according to IEC 60034-1 or IEC 60079-0, for operation on a sinusoidal voltage supply. This standard establishes a set of limit efficiency values based on frequency, number of poles and motor power. No distinction is made between motor technologies, supply voltage or motors with increased insulation designed specifically for converter operation even though these motor technologies may not all be capable of reaching the higher efficiency classes. This makes different motor technologies fully comparable with respect to their energy efficiency potential.
+  """,
+    """
+    text/html
+  """;
+  rdfs:label "IEC 60034-30-1:2014";
+  sto:hasAvailableLanguage lang:en, lang:fr;
+  sto:hasEdition "1"^^xsd:float;
+  sto:hasOfficialResource <https://webstore.iec.ch/publication/136>;
+  sto:hasPages "50"^^xsd:int;
+  sto:hasPublicationDate "2014-03-06"^^xsd:date;
+  sto:hasPublisher sto:IEC;
+  sto:hasStabilityDate "2020-12-31"^^xsd:date;
+  sto:hasStatus "PUBLISHED";
+  sto:hasTechnicalCommittee "TC 2";
+  sto:hasVersion "1"^^xsd:float .
+
+
+###  https://w3id.org/i40/sto#IEC_60034-5-2000-AMD1-2006
+sto:IEC_60034-5-2000-AMD1-2006 a owl:NamedIndividual, sto:Standard;
+  dcterms:creator sto:crawler;
+  dcterms:modified "2020-01-02"^^xsd:date;
+    "Amendment 1 - Rotating electrical machines - Part 5: Degrees of protection provided by the integral design of rotating electrical machines (IP code) - Classification";
+  rdfs:label "IEC 60034-5:2000/AMD1:2006";
+  sto:hasAvailableLanguage lang:en, lang:es, lang:fr;
+  sto:hasEdition "4"^^xsd:float;
+  sto:hasOfficialResource <https://webstore.iec.ch/publication/139>;
+  sto:hasPages "3"^^xsd:int, "5"^^xsd:int;
+  sto:hasPublicationDate "2006-09-13"^^xsd:date;
+  sto:hasPublisher sto:IEC;
+  sto:hasStabilityDate "2020-12-31"^^xsd:date;
+  sto:hasStatus "PUBLISHED";
+  sto:hasTechnicalCommittee "TC 2";
+  sto:hasVersion "1"^^xsd:float .
+
+
+###  https://w3id.org/i40/sto#IEC_60034-6-1991
+sto:IEC_60034-6-1991 a owl:NamedIndividual, sto:Standard;
+  dcterms:creator sto:crawler;
+  dcterms:modified "2020-01-02"^^xsd:date;
+    "Rotating electrical machines - Part 6: Methods of cooling (IC Code)";
+  rdfs:comment """
+    text/html
+  """,
+    """
+    text/html
+    Identifies circuit arrangements and movement methods of the coolant. Classifies methods of cooling and gives a designation system for them. Complete and simplified designations are defined.
+  """;
+  rdfs:label "IEC 60034-6:1991";
+  sto:hasAvailableLanguage lang:en, lang:es, lang:fr;
+  sto:hasEdition "2"^^xsd:float;
+  sto:hasOfficialResource <https://webstore.iec.ch/publication/143>;
+  sto:hasPages "19"^^xsd:int, "39"^^xsd:int;
+  sto:hasPublicationDate "1991-10-01"^^xsd:date;
+  sto:hasPublisher sto:IEC;
+  sto:hasStabilityDate "2020-12-31"^^xsd:date;
+  sto:hasStatus "PUBLISHED";
+  sto:hasTechnicalCommittee "TC 2";
+  sto:hasVersion "1"^^xsd:float .
+
+
+###  https://w3id.org/i40/sto#IEC_60034-7-1992
+sto:IEC_60034-7-1992 a owl:NamedIndividual, sto:Standard;
+  dcterms:creator sto:crawler;
+  dcterms:modified "2020-01-02"^^xsd:date;
+    "Rotating electrical machines - Part 7: Classification of types of constructions and mounting arrangements (IM Code)";
+  rdfs:comment """
+    text/html
+  """,
+    """
+    text/html
+    Gives two systems of classification: an alpha-numeric designation applicable to machines with endshield bearings and only one shaft extension (code I) and an all-numeric designation applicable to a wide range of types of machines (code II) including types covered by code I.
+  """;
+  rdfs:label "IEC 60034-7:1992";
+  sto:hasAvailableLanguage lang:en, lang:es, lang:fr;
+  sto:hasEdition "2"^^xsd:float;
+  sto:hasOfficialResource <https://webstore.iec.ch/publication/145>;
+  sto:hasPages "23"^^xsd:int, "45"^^xsd:int;
+  sto:hasPublicationDate "1992-12-18"^^xsd:date;
+  sto:hasPublisher sto:IEC;
+  sto:hasStabilityDate "2020-12-31"^^xsd:date;
+  sto:hasStatus "PUBLISHED";
+  sto:hasTechnicalCommittee "TC 2";
+  sto:hasVersion "1"^^xsd:float .
+
+
+###  https://w3id.org/i40/sto#IEC_60034-7-1992%2BAMD1-2000_CSV
+sto:IEC_60034-7-1992%2BAMD1-2000_CSV a owl:NamedIndividual, sto:Standard;
+  dcterms:creator sto:crawler;
+  dcterms:modified "2020-01-02"^^xsd:date;
+    "Rotating electrical machines - Part 7: Classification of types of construction, mounting arrangements and terminal box position (IM Code)";
+  rdfs:comment """
+    text/html
+    Gives two systems of classification: an alpha-numeric designation applicable to machines with endshield bearings and only one shaft extension (code I) and an all-numeric designation applicable to a wide range of types of machines (code II) including types covered by code I.
+l'amendement avec cette publication.</b>
+  """,
+    """
+    text/html
+    Gives two systems of classification: an alpha-numeric designation applicable to machines with endshield bearings and only one shaft extension (code I) and an all-numeric designation applicable to a wide range of types of machines (code II) including types covered by code I.
+<b>This consolidated version consists of the second edition (1992)  
+and its amendment 1 (2000). Therefore, no need to order amendment in
+addition to this publication.</b>
+  """;
+  rdfs:label "IEC 60034-7:1992+AMD1:2000 CSV";
+  sto:hasAvailableLanguage lang:en, lang:fr;
+  sto:hasEdition "2.1"^^xsd:float;
+  sto:hasOfficialResource <https://webstore.iec.ch/publication/146>;
+  sto:hasPages "49"^^xsd:int;
+  sto:hasPublicationDate "2001-02-27"^^xsd:date;
+  sto:hasPublisher sto:IEC;
+  sto:hasStabilityDate "2020-12-31"^^xsd:date;
+  sto:hasStatus "PUBLISHED";
+  sto:hasTechnicalCommittee "TC 2";
+  sto:hasVersion "1"^^xsd:float .
+
+
+###  https://w3id.org/i40/sto#IEC_60034-7-1992-AMD1-2000
+sto:IEC_60034-7-1992-AMD1-2000 a owl:NamedIndividual, sto:Standard;
+  dcterms:creator sto:crawler;
+  dcterms:modified "2020-01-02"^^xsd:date;
+    "Amendment 1 - Rotating electrical machines - Part 7: Classification of types of constructions and mounting arrangements (IM Code)";
+  rdfs:label "IEC 60034-7:1992/AMD1:2000";
+  sto:hasAvailableLanguage lang:en, lang:es, lang:fr;
+  sto:hasEdition "2"^^xsd:float;
+  sto:hasOfficialResource <https://webstore.iec.ch/publication/144>;
+  sto:hasPages "11"^^xsd:int, "6"^^xsd:int;
+  sto:hasPublicationDate "2000-09-22"^^xsd:date;
+  sto:hasPublisher sto:IEC;
+  sto:hasStabilityDate "2020-12-31"^^xsd:date;
+  sto:hasStatus "PUBLISHED";
+  sto:hasTechnicalCommittee "TC 2";
+  sto:hasVersion "1"^^xsd:float .
+
+
+###  https://w3id.org/i40/sto#IEC_60034-8-2007-AMD1-2014
+sto:IEC_60034-8-2007-AMD1-2014 a owl:NamedIndividual, sto:Standard;
+  dcterms:creator sto:crawler;
+  dcterms:modified "2020-01-02"^^xsd:date;
+    "Amendment 1 - Rotating electrical machines - Part 8: Terminal markings and direction of rotation";
+  rdfs:label "IEC 60034-8:2007/AMD1:2014";
+  sto:hasAvailableLanguage lang:en, lang:es, lang:fr;
+  sto:hasEdition "3"^^xsd:float;
+  sto:hasOfficialResource <https://webstore.iec.ch/publication/147>;
+  sto:hasPages "2"^^xsd:int, "4"^^xsd:int;
+  sto:hasPublicationDate "2014-03-20"^^xsd:date;
+  sto:hasPublisher sto:IEC;
+  sto:hasStabilityDate "2020-12-31"^^xsd:date;
+  sto:hasStatus "PUBLISHED";
+  sto:hasTechnicalCommittee "TC 2";
+  sto:hasVersion "1"^^xsd:float .
+
+
+###  https://w3id.org/i40/sto#IEC_TS_60034-31-2010
+sto:IEC_TS_60034-31-2010 a owl:NamedIndividual, sto:Standard;
+  dcterms:creator sto:crawler;
+  dcterms:modified "2020-01-02"^^xsd:date;
+    "Rotating electrical machines - Part 31: Selection of energy-efficient motors including variable speed applications - Application guide";
+  rdfs:comment """
+    text/html
+    IEC/TS 60034-31:2010 provides a guideline of technical aspects for the application of energy-efficient, three-phase, electric motors. It not only applies to motor manufacturers, original equipment manufacturers, end users, regulators and legislators but to all other interested parties. Is applicable to all electrical machines covered by IEC 60034-30.
+  """,
+    """
+    text/html
+  """;
+  rdfs:label "IEC TS 60034-31:2010";
+  sto:hasAvailableLanguage lang:en, lang:fr;
+  sto:hasEdition "1"^^xsd:float;
+  sto:hasOfficialResource <https://webstore.iec.ch/publication/137>;
+  sto:hasPages "85"^^xsd:int;
+  sto:hasPublicationDate "2010-04-26"^^xsd:date;
+  sto:hasPublisher sto:IEC;
+  sto:hasStabilityDate "2020-12-31"^^xsd:date;
+  sto:hasStatus "PUBLISHED";
+  sto:hasTechnicalCommittee "TC 2";
+  sto:hasVersion "1"^^xsd:float .
+
+
 ###  https://w3id.org/i40/sto#IEEE
 sto:IEEE rdf:type owl:NamedIndividual ,
                   foaf:Organization ,
